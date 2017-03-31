@@ -1,5 +1,5 @@
 """
-Lab 2 assignment
+Lab 2 assignment - Reverse words in a string
 Patrick Danford
 
 This script will input a string of words, then print
